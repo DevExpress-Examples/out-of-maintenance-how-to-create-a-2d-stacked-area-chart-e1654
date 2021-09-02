@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackedArea2DChart", "StackedArea2DChart.csproj", "{F6712085-8913-46FC-90B7-460847D344D1}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackedArea2DChart", "StackedArea2DChart.Net5.csproj", "{F6712085-8913-46FC-90B7-460847D344D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
